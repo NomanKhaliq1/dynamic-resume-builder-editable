@@ -1,0 +1,13 @@
+{
+  "title": "Dynamic Resume Builder",
+  "description": "A modern, editable resume builder with real-time preview, multiple templates, and PDF export.",
+  "techTags": ["Next.js", "React", "Tailwind CSS", "TypeScript"],
+  "source": "github",
+  "category": "Web",
+  "live_url": "https://dynamic-resume-builder-editable-khaki.vercel.app/",
+  "repo_name": "NomanKhaliq1/dynamic-resume-builder-editable",
+  "repo_link": true,
+  "image": "/projects/resume-builder.webp",
+  "thumbnail": "/projects/thumb-resume-builder.webp",
+  "fetch": false
+}
