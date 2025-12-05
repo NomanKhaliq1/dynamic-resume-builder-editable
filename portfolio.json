@@ -9,5 +9,5 @@
   "repo_link": true,
   "image": "/projects/resume-builder.webp",
   "thumbnail": "/projects/thumb-resume-builder.webp",
-  "fetch": false
+  "fetch": true
 }
